@@ -1,9 +1,9 @@
 # 🍿 Netflix Content Strategy & Distribution Dashboard
 
-## 📌 Overview
+## Overview
 An interactive Tableau dashboard using a public Netflix Movies & TV Shows dataset to explore content distribution, popularity, and global availability. This project analyzes over 4,900 titles to uncover trends in how Netflix's library has expanded over time and which categories produce the highest-rated content.
 
-## 🎥 Dashboard Demonstration
+## Dashboard Demonstration
 
 ![Dashboard Demo](dash_demo.png)
 
