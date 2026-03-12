@@ -16,14 +16,15 @@ The dashboard includes the following visual insights:
 * **Global Footprint:** A geographic country map revealing where most content is produced globally.
 
 ## 💡 Business Impact
-Although created as a foundational project, this dashboard reflects real-world reporting practices and effective storytelling through data. It demonstrates:
-* **Technical Proficiency:** The ability to use Tableau to clean data, build visual insights, and create interactive filtering.
-* **Strategic Value:** How data dashboards can support business decisions in content strategy, quality analysis, and global distribution planning.
+Although created as a foundational project, this dashboard reflects real-world reporting practices and effective storytelling through data, demonstrating:
+* The ability to use Tableau to clean data, build visual insights, and create interactive filtering.
+* How data dashboards can support business decisions in content strategy, quality analysis, and global distribution planning.
 
 ## 📂 Files in this Repository
 * `my_data_export.csv` - The underlying dataset used for the analysis.
 * `Dashboard 1.pdf` - A static PDF export of the final dashboard view.
 * `README.md` - Project documentation.
+* `dash_demo.png` - Screenshot.
 
 ## 🛠️ Tools Used
 * **Data Visualization:** Tableau
