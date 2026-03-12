@@ -5,8 +5,7 @@ An interactive Tableau dashboard using a public Netflix Movies & TV Shows datase
 
 ## 🎥 Dashboard Demonstration
 
-![Netflix Dashboard Demo](dashboard-demo.gif)
-
+![Dashboard Demo](dash-demo.png)
 
 
 ## 📊 Key Results & Visualizations
